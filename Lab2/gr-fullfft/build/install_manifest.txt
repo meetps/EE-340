@@ -1,0 +1,9 @@
+/usr/local/lib/cmake/fullfft/fullfftConfig.cmake
+/usr/local/include/fullfft/api.h
+/usr/local/lib/python2.7/dist-packages/fullfft/__init__.py
+/usr/local/lib/python2.7/dist-packages/fullfft/dft_py_fc.py
+/usr/local/lib/python2.7/dist-packages/fullfft/__init__.pyc
+/usr/local/lib/python2.7/dist-packages/fullfft/dft_py_fc.pyc
+/usr/local/lib/python2.7/dist-packages/fullfft/__init__.pyo
+/usr/local/lib/python2.7/dist-packages/fullfft/dft_py_fc.pyo
+/usr/local/share/gnuradio/grc/blocks/fullfft_dft_py_fc.xml

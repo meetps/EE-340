@@ -1,0 +1,3 @@
+/home/meetshah1995/Desktop/Third_Year/EE340/Lab2/gr-fullfft/build/apps/CMakeFiles/pygen_apps_9a6dd.dir
+/home/meetshah1995/Desktop/Third_Year/EE340/Lab2/gr-fullfft/build/python/CMakeFiles/pygen_python_d9447.dir
+/home/meetshah1995/Desktop/Third_Year/EE340/Lab2/gr-fullfft/build/CMakeFiles/uninstall.dir
